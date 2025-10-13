@@ -85,7 +85,7 @@ const Todo = () => {
       `}</style>
       <div className="w-full max-w-lg bg-white p-6 rounded-xl shadow-2xl">
         <h1 className="text-3xl font-extrabold text-gray-700 mb-6 text-center border-b pb-3">
-          TypeScript To-Do List
+           To-Do List Scheduler
         </h1>
         
         <ErrorMessage message={errorMessage} />
