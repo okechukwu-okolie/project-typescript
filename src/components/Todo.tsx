@@ -78,7 +78,7 @@ const Todo = () => {
 
   
   return (
-    <div className="max-h-screen bg-gray-100 flex items-start justify-center p-4 pt-12 font-sans">
+    <div className="min-h-screen  flex items-start justify-center p-4 pt-12 font-sans">
       <script src="https://cdn.tailwindcss.com"></script>
       <style>{`
         .font-sans { font-family: 'Inter', sans-serif; }
